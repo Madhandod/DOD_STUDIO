@@ -1,0 +1,5 @@
+{
+  "name": "DOD STUDIO",
+  "description": "An AI-powered application to automatically replace car backgrounds and add natural shadows in batch. Upload your car photos, provide a custom background, and let AI create stunning, professional images.",
+  "requestFramePermissions": []
+}
